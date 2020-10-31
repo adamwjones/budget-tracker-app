@@ -1,62 +1,61 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# PWA Online/Offline Budget-Tracker-App
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+## Watch video here
+//To be updated//
 
-Offline Functionality:
+## Description
+This application allows the user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the data gets cached and populates when brought back online.
 
-  * Enter deposits offline
+## Table of Contents
 
-  * Enter expenses offline
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Test](#test)
+- [License](#license)
+- [Questions](#questions) 
+- [Screenshots](#screenshots)
 
-When brought back online:
-
-  * Offline entries should be added to tracker.
-
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-
-## Business Context
-
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+### Installation
+Please follow these unique installation instructions (if necessary): Make sure to run npm install and all dependencies 
 
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+### Usage
+This application’s code is free to use following the terms of the license identified. Additional usage instructions are: Same as license 
 
-- - -
+### Contribution
+This applicating was made by Adam Jones with the assistance of Benjamin Benson (a tutor for the Rutgers Full Stack Coding Bootcamp).
 
-## Commit Early and Often
+### Test 
+I would not trust my code (or any code) without testing it myself. Please consider performing the following testing on this application prior to use: Take a look to validate that it worked before blindly pushing it to GitHub
 
-* One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+### License               
+This application is covered under the terms of the Artistic License 2.0 
+Pease refer to their site for more details of the terms of use permittable.
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+### Questions
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+* If you have any questions or comments regarding this project, please contact me at adam.w.jones2@gmail.com and I will try to reply as soon as possible. 
 
-* Follow these guidelines for committing:
+* If you liked this project, please check out my GitHub page at adamwjones to see more of my work.
 
-  * Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+### Screenshots
 
-  * Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+* Enter expenses offline
 
-  * Don't commit half done work, for the sake of your collaborators (and your future self!)
+<img src="public/images/budgetAppPic1.png" width="700px">
 
-  * Test your application before you commit to ensure functionality at every step in the development process
+* Enter deposits offline
 
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+<img src="public/images/ budgetAppPic2.png " width="700px">
 
-* Deploy your application with [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
+* See the offline entries in “pending” status
 
-## Submission on BCS
+<img src="public/images/ budgetAppPic3.png " width="700px">
 
-* You are required to submit the following:
+* Offline entries should be added to tracker
 
-  * the URL to the deployed application
-
-  * the URL to the Github repository
+<img src="public/images/ budgetAppPic4.png " width="700px">
