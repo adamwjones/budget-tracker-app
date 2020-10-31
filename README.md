@@ -46,16 +46,16 @@ Pease refer to their site for more details of the terms of use permittable.
 
 * Enter expenses offline
 
-<img src="public/images/budgetAppPic1.png" width="700px">
+<img src="Develop/public/images/budgetAppPic1.png" width="700px">
 
 * Enter deposits offline
 
-<img src="public/images/ budgetAppPic2.png " width="700px">
+<img src="Develop/public/images/budgetAppPic2.png" width="700px">
 
 * See the offline entries in “pending” status
 
-<img src="public/images/ budgetAppPic3.png " width="700px">
+<img src="Develop/public/images/budgetAppPic3.png" width="700px">
 
 * Offline entries should be added to tracker
 
-<img src="public/images/ budgetAppPic4.png " width="700px">
+<img src="Develop/public/images/budgetAppPic4.png" width="700px">
