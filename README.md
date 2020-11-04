@@ -5,6 +5,9 @@
 ## Watch video here
 //To be updated//
 
+## Link to Deployed App on Heroku
+https://grisly-warlock-18130.herokuapp.com/
+
 ## Description
 This application allows the user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the data gets cached and populates when brought back online.
 
